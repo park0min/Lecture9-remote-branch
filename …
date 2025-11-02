@@ -1,1 +1,17 @@
+# Lecture 9: Remote Branch and Collaboration
+
+## 📘 실습 내용 요약
+가천대학교 오픈소스SW Lecture 9 (Git-4: Remote Branch and Collaboration) 실습 과제입니다.  
+원격 저장소를 생성하고, 로컬 브랜치와 병합, 충돌 해결 과정을 실습했습니다.
+
+---
+
+## 🪄 실습 과정
+
+### 1️⃣ 저장소 생성
+- GitHub에서 `lecture9-remote-branch` 라는 **Public Repository** 생성
+- 로컬에 clone
+
+```bash
+git clone https://github.com/<yourname>/lecture9-remote-branch.git
 
